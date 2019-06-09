@@ -12,6 +12,8 @@ public class Test {
 		Object obj= ac.getBean("ordObj");
 		Order o= (Order)obj;
 		System.out.println(o);
+		System.out.println("Done........");
+		
 
 	}
 
